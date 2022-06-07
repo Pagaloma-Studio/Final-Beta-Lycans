@@ -16,11 +16,11 @@
     <a href="https://lycans.games"><strong>Explore the official site »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Pagaloma-Studio/Open-Beta-Lycans/blob/main/Lycans-beta-1-0-setup.exe?raw=true">Download Open Beta Test</a>
+    <a href="https://github.com/Pagaloma-Studio/Final-Beta-Lycans/blob/main/Lycans-1-0-setup.exe?raw=true">Download Open Beta Test</a>
     ·
-    <a href="https://github.com/Pagaloma-Studio/Open-Beta-Lycans/issues">Report Bug</a>
+    <a href="https://github.com/Pagaloma-Studio/Final-Beta-Lycans/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Pagaloma-Studio/Open-Beta-Lycans/issues">Request Feature</a>
+    <a href="https://github.com/Pagaloma-Studio/Final-Beta-Lycans/issues">Request Feature</a>
   </p>
 </div>
 
@@ -96,8 +96,8 @@ Currently, Lycans is not built for Linux or MacOS system. You will need a comput
 
 Here are the steps to follow if you want to install Lycans :
 
-1. [Download](https://github.com/Pagaloma-Studio/Final-Beta-Lycans/blob/main/Lycans-beta-1-0-setup.exe?raw=true) the installer
-2. Execute the installer. If Windows tries to warn you, this is actually normal, as our application is not signed yet. However, the installation is completely safe, as you can see on our [VirusTotal test](https://www.virustotal.com/gui/file/3803007579385aab0e7c452c44467fb231f86e358a3704d411b85ab8ecde0480?nocache=1). 
+1. [Download](https://github.com/Pagaloma-Studio/Final-Beta-Lycans/blob/main/Lycans-1-0-setup.exe?raw=true) the installer
+2. Execute the installer. If Windows tries to warn you, this is actually normal, as our application is not signed yet. However, the installation is completely safe, as you can see on our [VirusTotal test](https://www.virustotal.com/gui/file/b9bd2fb64165edbcb5c06e4dd0d636dccbbdfcb0db3f7d0261d1800974140d31?nocache=1). 
 3. Follow the steps on the installer.
 4. That's it ! If you want to uninstall Lycans, simply go where you installed it, and run `unins000.exe`
 
