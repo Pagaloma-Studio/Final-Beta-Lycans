@@ -97,7 +97,7 @@ Currently, Lycans is not built for Linux or MacOS system. You will need a comput
 Here are the steps to follow if you want to install Lycans :
 
 1. [Download](https://github.com/Pagaloma-Studio/Final-Beta-Lycans/blob/main/Lycans-1-0-setup.exe?raw=true) the installer
-2. Execute the installer. If Windows tries to warn you, this is actually normal, as our application is not signed yet. However, the installation is completely safe, as you can see on our [VirusTotal test](https://www.virustotal.com/gui/file/b9bd2fb64165edbcb5c06e4dd0d636dccbbdfcb0db3f7d0261d1800974140d31?nocache=1). 
+2. Execute the installer. If Windows tries to warn you, this is actually normal, as our application is not signed yet. However, the installation is completely safe, as you can see on our [VirusTotal test](https://www.virustotal.com/gui/file/e7fab43cae0fb01d10207e82a6014bd1cd1bc73a17cec89b735c61e4248cae17?nocache=1). 
 3. Follow the steps on the installer.
 4. That's it ! If you want to uninstall Lycans, simply go where you installed it, and run `unins000.exe`
 
